@@ -1,5 +1,5 @@
 17:31:36,722 INFO  [Processamento] 	numCanal 9(4) = 0000
-17:31:36,722 INFO  [Processamento] 	enderecoIP X(20) = 127.0.0.1           
+1sassasas7:31:36,722 INFO  [Processamento] 	enderecoIP X(20) = 127.0.0.1           
 17:31:36,722 INFO  [Processamento] 	codUsuario X(8) = c897855 
 17:31:36,722 INFO  [Processamento] 	tsOcorrencia X(26) = 2017-07-31 17:31:36.722   
 17:31:36,722 INFO  [Processamento] 	transacaoOrigem X(4) = JAVA
